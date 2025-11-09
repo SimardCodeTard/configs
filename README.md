@@ -1,2 +1,2 @@
 # configs
-Various config files for my dev env at 42
+Config files for my development env 
